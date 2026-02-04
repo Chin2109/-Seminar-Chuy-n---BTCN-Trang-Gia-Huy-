@@ -10,8 +10,8 @@
 ## 📚 Mục lục
 
 - [Tuần 1: Tổng quan Vibe Coding (16/01)](#tuần-1-tổng-quan-vibe-coding-1601)
-- [Tuần 2: Tổng quan kiểm thử phần mềm - tt (11/09 - 24/09)](#tuần-2-tổng-quan-kiểm-thử-phần-mềm---tt-1109---2409)
-- [Tuần 3: Quy trình + Kế hoạch kiểm thử (18/09 - 25/09)](#tuần-3-quy-trình--kế-hoạch-kiểm-thử-1809---2509)
+- [Tuần 2: Tổng quan về Agentic AI (23/01)](#tuần-2-tổng-quan-về-agentic-ai-2301)
+- [Tuần 3: Quá trình phát triển phần mềm (30/01)](#tuần-3-quá-trình-phát-triển-phần-mềm-3001)
 
 
 ---
