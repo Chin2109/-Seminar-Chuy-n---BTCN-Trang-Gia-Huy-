@@ -34,5 +34,5 @@
 ## Tuần 3: Quá trình phát triển phần mềm (30/01)
 
 - **Task:** Tìm hiểu quá trình phát triển kiến trúc phần mềm
-- **Source:** [📂 Bai tap ca nhan tuan 3](./BT3_TrangGiaHuy_3122411068)
+- **Source:** [📂 Bai tap ca nhan tuan 3](./Tuan03/BT03_TrangGiaHuy_3122411024.docx)
 - **Commit log:** [💾 feat: báo cáo bài tập cá nhân tuần 3: Tìm hiểu quá trình phát triển kiến trúc phần mềm](https://github.com/Chin2109/-Seminar-Chuy-n---BTCN-Trang-Gia-Huy-/commit/ed40eb61ae23e55638b5ea5a0f587a465778c6a6)
