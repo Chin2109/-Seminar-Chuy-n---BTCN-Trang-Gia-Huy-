@@ -9,9 +9,10 @@
 
 ## 📚 Mục lục
 
-- [Bài 1: Tổng quan kiểm thử phần mềm (04/09 - 11/09)](#tuần-1-tổng-quan-kiểm-thử-phần-mềm-0409---1109)
+- [Tuần 1: Tổng quan Vibe Coding (16/01)](#tuần-1-tổng-quan-vibe-coding-1601)
 - [Tuần 2: Tổng quan kiểm thử phần mềm - tt (11/09 - 24/09)](#tuần-2-tổng-quan-kiểm-thử-phần-mềm---tt-1109---2409)
 - [Tuần 3: Quy trình + Kế hoạch kiểm thử (18/09 - 25/09)](#tuần-3-quy-trình--kế-hoạch-kiểm-thử-1809---2509)
+
 
 ---
 
