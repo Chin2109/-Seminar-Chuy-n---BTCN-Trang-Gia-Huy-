@@ -30,6 +30,12 @@
 - **Source:** [📂 Team Report/Week 2/De Tai 01](./TeamReport/Week2/DeTai01)
 - **Commit log:** [💾 feat: báo cáo bài tập nhóm tuần 2: Chọn đề tài + Phân tích yêu cầu nghiệp vụ](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/378a25ddf31b08c7dbe5052aa6b8e8c4c8f15201)
 
+</br>
+
+- **Task:** [Bài tập nhóm] Tìm hiểu cách sủ dụng công cụ n8n; Xây dựng trên docker, triển khai phục vụ công việc cá nhân; Viết báo cáo word, slide thuyết trình và code liên quan
+- **Source:** [📂 Tuan02/n8n/](./Tuan02/n8n/)
+- **Commit log:** [💾 feat: báo cáo bài tập nhóm tuần 2](https://github.com/Chin2109/-Seminar-Chuy-n---BTCN-Trang-Gia-Huy-/commit/c61e469c838e50c5fccc4d59e84be6efb1339f6d)
+
 ---
 
 ## Tuần 3: Quá trình phát triển phần mềm (30/01)
