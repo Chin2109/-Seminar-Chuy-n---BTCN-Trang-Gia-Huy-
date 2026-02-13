@@ -18,9 +18,9 @@
 
 ## Tuần 1: Tổng quan Vibe Coding (16/01)
 
-- **Task:** Tìm hiểu về Google AI Studio
-- **Source:** [📂 Individual Report/3122411068 - Trang Gia Huy/Week 1](./IndividualReport/3122411068-TrangGiaHuy/Week1)
-- **Commit log:** [💾 feat: [Trang Gia Huy] thêm lab 1 và bài trắc nghiệm tuần 1](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/6b17020ddca8f3cc414166956d5ff920c2d93fbd)
+- **Task:** Vibe Coding With Github Copilot
+- **Source:** [📂 Team Report/3122411068 - Trang Gia Huy/Week 1](./Tuan01/)
+- **Commit log:** [💾 feat: [Trang Gia Huy] báo cáo bài tập tuần 1](https://github.com/Chin2109/-Seminar-Chuy-n---BTCN-Trang-Gia-Huy-/commit/51ddbcf9d3d80f94d008391915393fa6f2442f71)
 
 ---
 
