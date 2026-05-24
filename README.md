@@ -1,45 +1,39 @@
 # 🧾 Worklog: Báo cáo Bài tập cá nhân học phần Seminar Chuyên đề
 
-## Thông tin sinh viên & giảng viên hướng dẫn
+### Thông tin sinh viên & Giảng viên hướng dẫn
+* **Họ và tên:** Trang Gia Huy
+* **MSSV:** 3122411068
+* **Lớp:** DCT122C3
+* **Giảng viên hướng dẫn:** TS. Đỗ Như Tài
 
-| Họ và tên                | MSSV               | Lớp      |
-| ------------------------ | ------------------ | -------- | 
-| Trang Gia Huy            | 3122411068         | DCT122C3 |
-| **Giảng viên hướng dẫn** | **TS. Đỗ Như Tài** |          |
+---
 
 ## 📚 Mục lục
+* [**Tuần 1:** Tuan01 - Tìm hiểu công nghệ Vibe Coding Github Copilot](#tuan01---tìm-hiểu-công-nghệ-vibe-coding-github-copilot)
+* [**Tuần 2:** Tuan02 - Tổng quan về Agentic AI](#tuan02---tổng-quan-về-agentic-ai)
+* [**Tuần 4:** Tuan04 - Cơ sở lập trình với GenAI](#tuan04---cơ-sở-lập-trình-với-genai)
+* [**Tuần 5:** Tuan05 - Nâng cao về lập trình dùng GenAI](#tuan05---nâng-cao-về-lập-trình-dùng-genai)
+* [**Tuần 6:** Tuan06 - Xây dựng sản phẩm phần mềm dùng GenAI](#tuan06---xây-dựng-sản-phẩm-phần-mềm-dùng-genai)
+* [**Tuần 7:** Tuan07 - Phân tích Kiến trúc SPA & Microservices](#tuan07---phân-tích-kiến-trúc-spa--microservices)
+* [**Tuần 8:** Tuan08 - Phát triển phần mềm dùng GenAI](#tuan08---phát-triển-phần-mềm-dùng-genai)
 
-- [Tuần 1: Tổng quan Vibe Coding (16/01)](#tuần-1-tổng-quan-vibe-coding-1601)
-- [Tuần 2: Tổng quan về Agentic AI (23/01)](#tuần-2-tổng-quan-về-agentic-ai-2301)
-- [Tuần 3: Quá trình phát triển phần mềm (30/01)](#tuần-3-quá-trình-phát-triển-phần-mềm-3001)
+---
 
 
 ---
 
-## Tuần 1: Tổng quan Vibe Coding (16/01)
+## 📊 Bảng Nhật ký thực hiện chi tiết (Worklog)
 
-- **Task:** Vibe Coding With Github Copilot
-- **Source:** [📂 Team Report/3122411068 - Trang Gia Huy/Week 1](./Tuan01/)
-- **Commit log:** [💾 feat: [Trang Gia Huy] báo cáo bài tập tuần 1](https://github.com/Chin2109/-Seminar-Chuy-n---BTCN-Trang-Gia-Huy-/commit/51ddbcf9d3d80f94d008391915393fa6f2442f71)
-
----
-
-## Tuần 2: Tổng quan về Agentic AI (23/01)
-
-- **Task:** Tìm hiểu về n8n
-- **Source:** [📂 Team Report/Week 2/De Tai 01](./TeamReport/Week2/DeTai01)
-- **Commit log:** [💾 feat: báo cáo bài tập nhóm tuần 2: Chọn đề tài + Phân tích yêu cầu nghiệp vụ](https://github.com/Chin2109/-KTPM---DCT122C3---Assignment-Report/commit/378a25ddf31b08c7dbe5052aa6b8e8c4c8f15201)
-
-</br>
-
-- **Task:** [Bài tập nhóm] Tìm hiểu cách sủ dụng công cụ n8n; Xây dựng trên docker, triển khai phục vụ công việc cá nhân; Viết báo cáo word, slide thuyết trình và code liên quan
-- **Source:** [📂 Tuan02/n8n/](./Tuan02/n8n/)
-- **Commit log:** [💾 feat: báo cáo bài tập nhóm tuần 2](https://github.com/Chin2109/-Seminar-Chuy-n---BTCN-Trang-Gia-Huy-/commit/c61e469c838e50c5fccc4d59e84be6efb1339f6d)
+| Tuần học | Nhiệm vụ thực hiện (Task) | Thư mục nguồn (Source) | Lịch sử Commit (Commit Log) |
+| :--- | :--- | :--- | :--- |
+| <a name="tuan01---tìm-hiểu-công-nghệ-vibe-coding-github-copilot"></a>**Tuần 1**<br>*(Tuan01)* | Hoàn thành báo cáo và tài liệu Github Copilot | [`📂 Tuan01/Bai01/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan01/Bai01/) | [`💾 feat: Complete document for Github Copilot`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/commits/main/) |
+| | Hoàn thành workspace seminar và cấu hình sample project | [`📂 Tuan01/copilot-workspace/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan01/copilot-workspace/) | [`💾 feat: Complete task weekend 1`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/commits/main/) |
+| <a name="tuan02---tổng-quan-về-agentic-ai"></a>**Tuần 2**<br>*(Tuan02)* | Hoàn thành báo cáo Seminar n8n và tài liệu hướng dẫn | [`📂 Tuan02/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan02/) | [`💾 feat: Complete task weekend 2`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/commits/main/) |
+| <a name="tuan04---cơ-sở-lập-trình-với-genai"></a>**Tuần 4**<br>*(Tuan04)* | Nghiên cứu và hoàn thành tài liệu GenAI Coding | [`📂 Tuan04/Bai01/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan04/Bai01/) | [`💾 feat: Complete document GenAI Coding`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/commits/main/) |
+| | Hoàn thành bài tập chương 3 về Github Copilot | [`📂 Tuan04/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan04/) | [`💾 feat: Complete task Chapter 3: Github Copilot`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/commits/main/) |
+| <a name="tuan05---nâng-cao-về-lập-trình-dùng-genai"></a>**Tuần 5**<br>*(Tuan05)* | Hoàn thành bài tập chương 7 và tài liệu GenAI | [`📂 Tuan05/Bai01/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan05/Bai01/)<br>[`📂 Tuan05/ch7/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan05/ch7/) | [`💾 feat: Complete task Chapter 7`](_LINK_GITHUB_REPOSITORY_CỦA_BẠN_/commits/main/) |
+| <a name="tuan06---xây-dựng-sản-phẩm-phần-mềm-dùng-genai"></a>**Tuần 6**<br>*(Tuan06)* | Hoàn thành báo cáo và implement code cho bài tập chương 16 | [`📂 Tuan06/Bai01/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan06/Bai01/) | [`💾 feat: Complete task Chapter 16: Document and Code`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/commits/main/) |
+| <a name="tuan07---phân-tích-kiến-trúc-spa--microservices"></a>**Tuần 7**<br>*(Tuan07)* | Hoàn thành presentation và implement frontend cho project microservice | [`📂 Tuan07/ProjectWeb-main/FE/react-e-commerce/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan07/ProjectWeb-main/FE/react-e-commerce/) | [`💾 feat: Complete slide and code frontend`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/commits/main/) |
+| <a name="tuan08---phát-triển-phần-mềm-dùng-genai"></a>**Tuần 8**<br>*(Tuan08)* | Hoàn thành báo cáo và presentation Engineer Vibe Coding | [`📂 Tuan08/`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/tree/main/Tuan08/) | [`💾 feat: Complete presentation Engineer Vibe Coding`](https://github.com/nleqhuongwzz/SEMINAR-VIBECODING-3122411078/commits/main/) |
 
 ---
-
-## Tuần 3: Quá trình phát triển phần mềm (30/01)
-
-- **Task:** Tìm hiểu quá trình phát triển kiến trúc phần mềm
-- **Source:** [📂 Bai tap ca nhan tuan 3](./Tuan03/BT03_TrangGiaHuy_3122411024.docx)
-- **Commit log:** [💾 feat: báo cáo bài tập cá nhân tuần 3: Tìm hiểu quá trình phát triển kiến trúc phần mềm](https://github.com/Chin2109/-Seminar-Chuy-n---BTCN-Trang-Gia-Huy-/commit/ed40eb61ae23e55638b5ea5a0f587a465778c6a6)
